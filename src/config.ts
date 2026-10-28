@@ -9,7 +9,7 @@ const URLS = {
     API_URL: "http://localhost:5000",
   },
   production: {
-    API_URL: "https://olive-stingray-140944.hostingersite.com",
+    API_URL: "https://palegreen-sandpiper-364848.hostingersite.com",
   },
 };
 
