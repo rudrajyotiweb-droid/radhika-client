@@ -1,0 +1,62 @@
+# Image Attributions
+
+All images are from Wikimedia Commons under free licenses. Images were resized/cropped and converted to WebP. They are **development placeholders** — replace with your own temple/product photography before launch (BRD §15).
+
+| File | Title | Author | License | Source |
+|---|---|---|---|---|
+| `chadhava/aparajita.webp` | Clitoria ternatea.jpg | Wilfredor | CC0 | [link](https://commons.wikimedia.org/wiki/File:Clitoria_ternatea.jpg) |
+| `chadhava/black-sesame.webp` | Black sesame (1).jpg | Fumikas Sagisavas | CC0 | [link](https://commons.wikimedia.org/wiki/File:Black_sesame_%281%29.jpg) |
+| `chadhava/boondi-laddoo.webp` | Boondi laddoo.JPG | Milanography | CC BY-SA 4.0 | [link](https://commons.wikimedia.org/wiki/File:Boondi_laddoo.JPG) |
+| `chadhava/flower-garland.webp` | DFC 1762 A vendor carefully strings fresh flower garlands at her colorful market stall surrounded by piles of jasmine and marigold blossoms.jpg | PattayaPatrol | CC BY-SA 4.0 | [link](https://commons.wikimedia.org/wiki/File:DFC_1762_A_vendor_carefully_strings_fresh_flower_garlands_at_her_colorful_market_stall_surrounded_by_piles_of_jasmine_and_marigold_blossoms.jpg) |
+| `chadhava/gopal-shringar.webp` | Decorated idol of Lord Krishna (Laddu Gopal) in home shrine, India.jpg | The open draft | CC BY-SA 4.0 | [link](https://commons.wikimedia.org/wiki/File:Decorated_idol_of_Lord_Krishna_%28Laddu_Gopal%29_in_home_shrine,_India.jpg) |
+| `chadhava/hibiscus.webp` | Red Hibiscus Flower 1.jpg | Brahmavadini | CC BY 4.0 | [link](https://commons.wikimedia.org/wiki/File:Red_Hibiscus_Flower_1.jpg) |
+| `chadhava/mustard-oil.webp` | Mustard Oil & Seeds - Kolkata 2003-10-31 00537.JPG | Biswarup Ganguly | CC BY 3.0 | [link](https://commons.wikimedia.org/wiki/File:Mustard_Oil_%2526_Seeds_-_Kolkata_2003-10-31_00537.JPG) |
+| `chadhava/peda.webp` | Pera - Sweet - Banke Bihari Mandir Area - Vrindavan - 2013-02-22 4793.JPG | Biswarup Ganguly | CC BY 3.0 | [link](https://commons.wikimedia.org/wiki/File:Pera_-_Sweet_-_Banke_Bihari_Mandir_Area_-_Vrindavan_-_2013-02-22_4793.JPG) |
+| `chadhava/phool-bangla.webp` | Phool Bangla floral chandelier at Banke Bihari Temple, Vrindavan.jpg | Aliva Sahoo | CC BY-SA 3.0 | [link](https://commons.wikimedia.org/wiki/File:Phool_Bangla_floral_chandelier_at_Banke_Bihari_Temple,_Vrindavan.jpg) |
+| `chadhava/red-saree.webp` | Mysore Silk Saree.jpg | Kiranravikumar | CC BY-SA 3.0 | [link](https://commons.wikimedia.org/wiki/File:Mysore_Silk_Saree.jpg) |
+| `deity/durga.webp` | প্যান্ডেলে দুর্গা প্রতিমা - প্রতাপগড় - বনগাঁ ২০২২-১০-০৩ - Durga Idol in Pandal - Pratapgarh - Bangaon 2022-10-03.jpg | খাঁ শুভেন্দু | CC BY-SA 4.0 | [link](https://commons.wikimedia.org/wiki/File:%25E0%25A6%25AA%25E0%25A7%258D%25E0%25A6%25AF%25E0%25A6%25BE%25E0%25A6%25A8%25E0%25A7%258D%25E0%25A6%25A1%25E0%25A7%2587%25E0%25A6%25B2%25E0%25A7%2587_%25E0%25A6%25A6%25E0%25A7%2581%25E0%25A6%25B0%25E0%25A7%258D%25E0%25A6%2597%25E0%25A6%25BE_%25E0%25A6%25AA%25E0%25A7%258D%25E0%25A6%25B0%25E0%25A6%25A4%25E0%25A6%25BF%25E0%25A6%25AE%25E0%25A6%25BE_-_%25E0%25A6%25AA%25E0%25A7%258D%25E0%25A6%25B0%25E0%25A6%25A4%25E0%25A6%25BE%25E0%25A6%25AA%25E0%25A6%2597%25E0%25A6%25A1%25E0%25A6%25BC_-_%25E0%25A6%25AC%25E0%25A6%25A8%25E0%25A6%2597%25E0%25A6%25BE%25E0%25A6%2581_%25E0%25A7%25A8%25E0%25A7%25A6%25E0%25A7%25A8%25E0%25A7%25A8-%25E0%25A7%25A7%25E0%25A7%25A6-%25E0%25A7%25A6%25E0%25A7%25A9_-_Durga_Idol_in_Pandal_-_Pratapgarh_-_Bangaon_2022-10-03.jpg) |
+| `deity/ganesh.webp` | Ganesha Idol, Siddhivinayak Temple, Mumbai.jpg | Feroze Ahmad 2 | CC BY-SA 4.0 | [link](https://commons.wikimedia.org/wiki/File:Ganesha_Idol,_Siddhivinayak_Temple,_Mumbai.jpg) |
+| `deity/hanuman.webp` | Hanuman idol, Bhumapura Hanuman Temple, Gujarat.jpg | Hittucciex4 | CC BY-SA 4.0 | [link](https://commons.wikimedia.org/wiki/File:Hanuman_idol,_Bhumapura_Hanuman_Temple,_Gujarat.jpg) |
+| `deity/kali.webp` | Goddess Kali Idol, West Bengal.jpg | ItzSumonRoy | CC BY-SA 4.0 | [link](https://commons.wikimedia.org/wiki/File:Goddess_Kali_Idol,_West_Bengal.jpg) |
+| `deity/lakshmi.webp` | Lakshmi pooja in Odisha 2024 43.jpg | Athulvis | CC BY-SA 4.0 | [link](https://commons.wikimedia.org/wiki/File:Lakshmi_pooja_in_Odisha_2024_43.jpg) |
+| `deity/saraswati.webp` | Saraswati - Durga Puja Pandal - Ekdalia Evergreen - Ekdalia Road - Kolkata 2017-09-26 4119.JPG | Biswarup Ganguly | CC BY 3.0 | [link](https://commons.wikimedia.org/wiki/File:Saraswati_-_Durga_Puja_Pandal_-_Ekdalia_Evergreen_-_Ekdalia_Road_-_Kolkata_2017-09-26_4119.JPG) |
+| `deity/shani.webp` | Idol of Lord Shani in Shani Dham, Char Dham Vrindavan.jpg | Sharmaji8 | CC BY-SA 4.0 | [link](https://commons.wikimedia.org/wiki/File:Idol_of_Lord_Shani_in_Shani_Dham,_Char_Dham_Vrindavan.jpg) |
+| `deity/shiva.webp` | Shiva Lingam in Bagh Bhairab Temple-3812.jpg | Bijay Chaurasia | CC BY-SA 4.0 | [link](https://commons.wikimedia.org/wiki/File:Shiva_Lingam_in_Bagh_Bhairab_Temple-3812.jpg) |
+| `deity/vishnu.webp` | Radha Krishna Idol, Lalji Temple, Kalna.jpg | Rangan Datta Wiki | CC BY-SA 4.0 | [link](https://commons.wikimedia.org/wiki/File:Radha_Krishna_Idol,_Lalji_Temple,_Kalna.jpg) |
+| `hero/diya-rangoli.webp` | Rangoli and Diya.jpg | Kushal Patel 07 | CC BY-SA 4.0 | [link](https://commons.wikimedia.org/wiki/File:Rangoli_and_Diya.jpg) |
+| `hero/mayapur-dusk.webp` | Chandrodaya temple at ISKCON, Mayapur in Nadia District, West Bengal, India 04.jpg | Amitabha Gupta | CC BY 4.0 | [link](https://commons.wikimedia.org/wiki/File:Chandrodaya_temple_at_ISKCON,_Mayapur_in_Nadia_District,_West_Bengal,_India_04.jpg) |
+| `hero/prem-mandir.webp` | Prem Mandir Vrindavan at night.jpg | Aliva Sahoo | CC BY-SA 3.0 | [link](https://commons.wikimedia.org/wiki/File:Prem_Mandir_Vrindavan_at_night.jpg) |
+| `hero/yamuna-ghat.webp` | Yamuna Aarti.jpg | Aman.creativecommons | CC BY-SA 4.0 | [link](https://commons.wikimedia.org/wiki/File:Yamuna_Aarti.jpg) |
+| `product/agarbatti.webp` | Agarbatti lit.jpg | Vis M | CC BY-SA 4.0 | [link](https://commons.wikimedia.org/wiki/File:Agarbatti_lit.jpg) |
+| `product/brass-diya.webp` | Brass lamp.jpg | Gausanchennai | CC BY-SA 4.0 | [link](https://commons.wikimedia.org/wiki/File:Brass_lamp.jpg) |
+| `product/copper-lota.webp` | Copper Lota Bodna.jpg | Gary Todd from Xinzheng, China | CC0 | [link](https://commons.wikimedia.org/wiki/File:Copper_Lota_Bodna.jpg) |
+| `product/emerald.webp` | Natural Zambian Emerald Gemstone.jpg | Gems International | CC BY 4.0 | [link](https://commons.wikimedia.org/wiki/File:Natural_Zambian_Emerald_Gemstone.jpg) |
+| `product/jyotish-granth.webp` | Horoscope of Lehna Singh Majithia, folio of the work 'Sarvasiddhāntatattva-cuḍāmaṇi' (“The Jewel of the Essence of All Sciences”), 1840.jpg | Unknown | Public domain | [link](https://commons.wikimedia.org/wiki/File:Horoscope_of_Lehna_Singh_Majithia,_folio_of_the_work_%2527Sarvasiddh%25C4%2581ntatattva-cu%25E1%25B8%258D%25C4%2581ma%25E1%25B9%2587i%2527_%28%25E2%2580%259CThe_Jewel_of_the_Essence_of_All_Sciences%25E2%2580%259D%29,_1840.jpg) |
+| `product/laddu-gopal-murti.webp` | Silver-plated-blue-Laddu-Gopal-idol-baby-Krishna-crawling.jpg | HanumanSevak2025 | CC BY-SA 4.0 | [link](https://commons.wikimedia.org/wiki/File:Silver-plated-blue-Laddu-Gopal-idol-baby-Krishna-crawling.jpg) |
+| `product/peacock-feather.webp` | Peacock feather close-up.jpg | Mister rf | CC BY-SA 4.0 | [link](https://commons.wikimedia.org/wiki/File:Peacock_feather_close-up.jpg) |
+| `product/pearl.webp` | Pearl necklace.jpg | Mauro Cateb | CC BY-SA 4.0 | [link](https://commons.wikimedia.org/wiki/File:Pearl_necklace.jpg) |
+| `product/red-coral.webp` | Red coral beads.jpg | Mauro Cateb | CC BY-SA 3.0 | [link](https://commons.wikimedia.org/wiki/File:Red_coral_beads.jpg) |
+| `product/rudraksha.webp` | Rudraksha mala.jpg | Janak Bhatta | CC BY-SA 4.0 | [link](https://commons.wikimedia.org/wiki/File:Rudraksha_mala.jpg) |
+| `product/shankha-bangles.webp` | Shankha - Conch Bangles - Kolkata 2014-10-03 9326.JPG | Biswarup Ganguly | CC BY 3.0 | [link](https://commons.wikimedia.org/wiki/File:Shankha_-_Conch_Bangles_-_Kolkata_2014-10-03_9326.JPG) |
+| `product/sphatik-mala.webp` | Rock crystal beads.jpg | Mauro Cateb | CC BY-SA 3.0 | [link](https://commons.wikimedia.org/wiki/File:Rock_crystal_beads.jpg) |
+| `product/yantra.webp` | A Sri Yantra copper relief.jpg | Ms Sarah Welch | CC BY-SA 4.0 | [link](https://commons.wikimedia.org/wiki/File:A_Sri_Yantra_copper_relief.jpg) |
+| `product/yellow-sapphire.webp` | Yellow sapphire oval gemstone.JPG | Gemsphoto | CC BY-SA 3.0 | [link](https://commons.wikimedia.org/wiki/File:Yellow_sapphire_oval_gemstone.JPG) |
+| `puja/ganesh-modak.webp` | Ganesh Idol in Mumbai.jpg | Nick Gray | CC BY-SA 2.0 | [link](https://commons.wikimedia.org/wiki/File:Ganesh_Idol_in_Mumbai.jpg) |
+| `puja/kali-homa.webp` | Kali Puja Pandal and idol and celebration in Kolkata 17.jpg | Goutam1962 | CC BY-SA 4.0 | [link](https://commons.wikimedia.org/wiki/File:Kali_Puja_Pandal_and_idol_and_celebration_in_Kolkata_17.jpg) |
+| `puja/laddu-gopal.webp` | Laddu Gopal ji in a beautiful swing (Jhula).jpg | PankajUt | CC BY-SA 4.0 | [link](https://commons.wikimedia.org/wiki/File:Laddu_Gopal_ji_in_a_beautiful_swing_%28Jhula%29.jpg) |
+| `puja/navagraha.webp` | Navgrah idols at Maa Durga Sai Baba Temple in Orlando 1.jpg | Kiran891 | CC BY-SA 4.0 | [link](https://commons.wikimedia.org/wiki/File:Navgrah_idols_at_Maa_Durga_Sai_Baba_Temple_in_Orlando_1.jpg) |
+| `puja/radha-krishna.webp` | Idols of Radha Krishna seated on a beautifully decorated swing with flowers and lights on occasion of Jhulan Yatra at Radha Krishna temple, Dibrugarh 05.jpg | AjayDas | CC BY-SA 4.0 | [link](https://commons.wikimedia.org/wiki/File:Idols_of_Radha_Krishna_seated_on_a_beautifully_decorated_swing_with_flowers_and_lights_on_occasion_of_Jhulan_Yatra_at_Radha_Krishna_temple,_Dibrugarh_05.jpg) |
+| `puja/saraswati-idol.webp` | Saraswati idol at BRKM 2017.jpg | Aankan Das | CC BY-SA 3.0 | [link](https://commons.wikimedia.org/wiki/File:Saraswati_idol_at_BRKM_2017.jpg) |
+| `puja/satyanarayan.webp` | Shree Satyanarayan Bhagwan Puja.jpg | Subhmanish | CC BY-SA 4.0 | [link](https://commons.wikimedia.org/wiki/File:Shree_Satyanarayan_Bhagwan_Puja.jpg) |
+| `puja/shani-dev.webp` | Pouring Til oil on the Shani idol at Shani Shingnapur, maharastra.jpg | K.Venkataramana | CC0 | [link](https://commons.wikimedia.org/wiki/File:Pouring_Til_oil_on_the_Shani_idol_at_Shani_Shingnapur,_maharastra.jpg) |
+| `puja/tulsi.webp` | Tulsi vivah balkrishna.JPG | सदस्य:वि.नरसीकर | CC BY-SA 4.0 | [link](https://commons.wikimedia.org/wiki/File:Tulsi_vivah_balkrishna.JPG) |
+| `puja/yagna.webp` | Havan kund ( Fire pit ).jpg | Sush Motwani | CC BY-SA 4.0 | [link](https://commons.wikimedia.org/wiki/File:Havan_kund_%28_Fire_pit_%29.jpg) |
+| `temple/banke-bihari.webp` | Banke Bihari Vrindavan.jpg | Kridha20 | CC BY-SA 4.0 | [link](https://commons.wikimedia.org/wiki/File:Banke_Bihari_Vrindavan.jpg) |
+| `temple/barsana.webp` | Radharani Temple Barsana 3.jpg | Kridha20 | CC BY-SA 4.0 | [link](https://commons.wikimedia.org/wiki/File:Radharani_Temple_Barsana_3.jpg) |
+| `temple/basar.webp` | Basar Temple view 02.jpg | RameshSharma | CC BY 2.0 | [link](https://commons.wikimedia.org/wiki/File:Basar_Temple_view_02.jpg) |
+| `temple/kalighat.webp` | Kalighat Kali Temple after renovation.jpg | Ku423winz1 | CC BY-SA 4.0 | [link](https://commons.wikimedia.org/wiki/File:Kalighat_Kali_Temple_after_renovation.jpg) |
+| `temple/mayapur.webp` | Sri Sri Radha Madhav Temple (also Sri Maya Chandrodaya Mandir, Mayapur) in West Bengal, India.jpg | Billjones94 | CC BY-SA 4.0 | [link](https://commons.wikimedia.org/wiki/File:Sri_Sri_Radha_Madhav_Temple_%28also_Sri_Maya_Chandrodaya_Mandir,_Mayapur%29_in_West_Bengal,_India.jpg) |
+| `temple/salasar-balaji.webp` | Salasar balaji 01.jpg | Dausaanoop | CC BY-SA 4.0 | [link](https://commons.wikimedia.org/wiki/File:Salasar_balaji_01.jpg) |
+| `temple/shani-shingnapur.webp` | Shani Temple at Shani Shingnapur, Maharastra, India.jpg | K.Venkataramana | CC0 | [link](https://commons.wikimedia.org/wiki/File:Shani_Temple_at_Shani_Shingnapur,_Maharastra,_India.jpg) |
+| `temple/siddhivinayak.webp` | View of Siddhivinayak Temple.jpg | Feroze Ahmad 2 | CC BY-SA 4.0 | [link](https://commons.wikimedia.org/wiki/File:View_of_Siddhivinayak_Temple.jpg) |
+| `temple/trimbakeshwar.webp` | Trimbakeshwar Shiva Temple 2005.jpg | Saket Verma | CC BY-SA 4.0 | [link](https://commons.wikimedia.org/wiki/File:Trimbakeshwar_Shiva_Temple_2005.jpg) |
